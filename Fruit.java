@@ -5,7 +5,7 @@ public class Fruit {
     }
 //Este es un método que devuelve un valor booleano. Se llama dulce y devuelve falso.    }
 public boolean sweet() {
-        //devuelve false
+        //devuelve falsee
         return false;
     }
     
